@@ -3,7 +3,7 @@
 I'm Leo, a computer science undergraduate student from Gadjah Mada University. I am currently enrolled in Apple Developer Academy @BINUS.
 
 ### My Portfolio 💼
-<p align="middle">
+<p align="center">
   
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=leoharnadi&repo=portfolio-iOS&theme=dracula)](https://github.com/leoharnadi/Portfolio-iOS)
 </p>
