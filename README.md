@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Leo, a computer science undergraduate student from Gadjah Mada University. I am currently enrolled in Apple Developer Academy @BINUS.
+I'm Leo, a computer science graduate from Gadjah Mada University. 
 
 ### My Portfolio 💼
 <!--
